@@ -1,0 +1,18 @@
+p {
+    font-size: .8rem;
+}
+select:focus,input:focus {
+    border-width: 2px;
+    border-color: gray!important;
+    box-shadow: none!important;
+}
+.btn-primary {
+    position: absolute;
+    top: 0.3rem;
+    right: 12rem;
+}
+.btn-secondary {
+    position:absolute;
+    top:.3rem;
+    right:6rem;
+}
